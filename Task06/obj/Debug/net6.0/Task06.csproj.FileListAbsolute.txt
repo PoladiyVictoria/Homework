@@ -1,0 +1,15 @@
+E:\Домашка\Домашка C#\Task06\bin\Debug\net6.0\Task06.exe
+E:\Домашка\Домашка C#\Task06\bin\Debug\net6.0\Task06.deps.json
+E:\Домашка\Домашка C#\Task06\bin\Debug\net6.0\Task06.runtimeconfig.json
+E:\Домашка\Домашка C#\Task06\bin\Debug\net6.0\Task06.dll
+E:\Домашка\Домашка C#\Task06\bin\Debug\net6.0\Task06.pdb
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.csproj.AssemblyReference.cache
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.AssemblyInfoInputs.cache
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.AssemblyInfo.cs
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.csproj.CoreCompileInputs.cache
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.dll
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\refint\Task06.dll
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.pdb
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\Task06.genruntimeconfig.cache
+E:\Домашка\Домашка C#\Task06\obj\Debug\net6.0\ref\Task06.dll
