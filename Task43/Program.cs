@@ -24,6 +24,13 @@ double b1 = InputNumber("b1");
 double k1 = InputNumber("k1");
 double b2 = InputNumber("b2");
 double k2 = InputNumber("k2");
-double x = Math.Round(FindX(b1, k1, b2, k2), 2);
-double y = Math.Round(FindY(b1, k1, x), 2);
-Console.WriteLine($"Точка пересечения прямых -> ({x} ; {y})");
+if (k1 != k2 && b1 != b2)
+{
+    double x = Math.Round(FindX(b1, k1, b2, k2), 2);
+    double y = Math.Round(FindY(b1, k1, x), 2);
+    Console.WriteLine($"Точка пересечения прямых -> ({x} ; {y})");
+}
+else
+{
+    Console.WriteLine("Нет точек пересечения прямых");
+}

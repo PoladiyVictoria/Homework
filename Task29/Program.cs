@@ -20,7 +20,7 @@ void PrintArray(int[] arr, int arrSize)
 {
     for (int i = 0; i < arrSize; i++)
     {
-        Console.WriteLine($"[{i}] = {arr[i]}");
+        Console.WriteLine($"[{i}]={arr[i]} ");
     }
 }
 
