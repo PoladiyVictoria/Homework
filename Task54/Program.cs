@@ -47,7 +47,6 @@ void SortMatrixRowsFromMaxToMin(int[,] matr)
                 {
                     max = j;
                 }
-                j++;
             }
             if (matr[i, m] != matr[i, max])
             {
