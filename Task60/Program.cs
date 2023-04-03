@@ -8,14 +8,18 @@
 int[,,] CreateBoxRndInt(int numX, int numY, int numZ)
 {
     int[,,] Box = new int[numX, numY, numZ];
-    Random R = new Random();
+    int num = 10;
     for (int i = 0; i < Box.GetLength(0); i++)
     {
         for (int j = 0; j < Box.GetLength(1); j++)
         {
             for (int m = 0; m < Box.GetLength(2); m++)
             {
-               Box[i, j, m] = R.Next(10, 100); 
+                if(num < 100)
+                {
+                    Box[i, j, m] = num;
+                }
+               num ++; 
             }
         }
     }
